@@ -1,4 +1,4 @@
-  let targetDate = new Date("April 30, 2025 00:00:00").getTime();
+  let targetDate = new Date("may 01, 2025 00:00:00").getTime();
 
     function timer(){
      let todayDate = new Date().getTime();
